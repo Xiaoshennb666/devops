@@ -18,6 +18,6 @@ phases:
       - echo "【编译完成时间】`date`"
 artifacts:
   files:
-    - '**/*'
-     # - 'index.html'
+   # - '**/*'
+    - 'index.html'
   name: myweb-release
