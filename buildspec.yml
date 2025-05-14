@@ -16,3 +16,8 @@ phases:
   post_build:
     commands:
       - echo "【编译完成时间】`date`"
+artifacts:
+  files:
+    - '**/*'
+     # - 'index.html'
+  name: myweb-release
