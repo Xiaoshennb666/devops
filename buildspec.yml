@@ -8,4 +8,5 @@ artifacts:
   files:
     - 'appspec.yml'
     - 'index.html'
+    - 'scripts/*'
   name: myweb-release
